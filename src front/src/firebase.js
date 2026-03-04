@@ -19,13 +19,7 @@ import {
 
 // ⛳️ Reemplaza por tus credenciales reales
 const firebaseConfig = {
-  apiKey: "AIzaSyAuKEBMT5cne07CUDYmiC_XAbi9wURdZ2s",
-  authDomain: "proyectofrontend-fba2e.firebaseapp.com",
-  projectId: "proyectofrontend-fba2e",
-  storageBucket: "proyectofrontend-fba2e.firebasestorage.app",
-  messagingSenderId: "410159697901",
-  appId: "1:410159697901:web:4e54591198da569f5f61e4",
-  measurementId: "G-MMV47ENRYQ"
+
 };
 
 const app = initializeApp(firebaseConfig);
@@ -82,3 +76,4 @@ export async function logout() {
 
 // Exports agrupados (compatibilidad con tus imports)
 export default app;
+
