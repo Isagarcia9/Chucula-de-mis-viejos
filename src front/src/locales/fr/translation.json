@@ -1,0 +1,79 @@
+{
+  "homeTitle": "🏠 Accueil",
+  "hello": "Bonjour",
+  "logout": "Se déconnecter",
+  "loading": "Chargement...",
+
+  "register": "S'inscrire",
+  "login": "Se connecter",
+  "welcome": "Bienvenue",
+  "user": "utilisateur",
+
+  "name": "Nom",
+  "namePlaceholder": "Votre nom",
+  "maritalStatus": "État civil",
+  "selectMarital": "Sélectionner…",
+  "single": "Célibataire",
+  "married": "Marié(e)",
+  "cohabiting": "Union libre",
+  "divorced": "Divorcé(e)",
+  "widowed": "Veuf/Veuve",
+  "other": "Autre",
+
+  "email": "E-mail",
+  "emailPlaceholder": "email@exemple.com",
+  "password": "Mot de passe",
+  "passwordPlaceholder": "Minimum 6 caractères",
+
+  "signIn": "Se connecter",
+  "signInWithGoogle": "Se connecter avec Google",
+  "alreadyAccount": "Vous avez déjà un compte ? Connectez-vous",
+  "noAccount": "Pas de compte ? Inscrivez-vous",
+
+  "requiredName": "Le nom est obligatoire.",
+  "requiredMarital": "Veuillez sélectionner votre état civil.",
+  "passwordMin": "Le mot de passe doit contenir au moins 6 caractères.",
+
+  "inicio": "Page d'accueil",
+  "productos" : "Produits",
+  "proveedores": "Fournisseurs",
+
+  "bienvenido":"Bienvenue",
+  "seleccion": "Sélectionnez une option",
+
+  "nombre" : "Nom",
+  "descripcion" : "Description",
+  "id proveedor" :"ID fournisseur",
+  "guardar" : "Enregistrer",
+  "actualizar" : " Mettre à jour ",
+  "limpiar" : "Effacer",
+
+  "consulta" : "Consulter les produits IA",
+  "pregunta" : "Question",
+  "sinrespuesta" : "Pas de réponse",
+  "pensando" : "Réflexion...",
+
+  "eliminar" : "Supprimer le produit?",
+
+  "lista" : "Liste des produits",
+  "noProducto" :" Aucun produit",
+
+  "id" : "ID",
+  "producto" : "Produit",
+  "proveedor": "Fournisseur",
+
+  "acciones" : " Actions",
+  "eliminarU" : "Supprimer",
+  "editar" : "Modifier",
+
+  "escribePregunta":"Écrivez d'abord une question.",
+  "error" : "Une erreur s'est produite lors de la communication avec l'IA.",
+  "iaproveedores":"Consultation des fournisseurs IA",
+  "escribeConsultaProveedor": "Écrivez vos questions sur les fournisseurs...",
+  "listaproveedores":"Liste des fournisseurs",
+  "telefono": "Téléphone",
+  "noProveedores" : "Il n'y a pas de fournisseurs.",
+  "nitProveedor": "NIT du fournisseur",
+  "nombreProveedor": "Nom du fournisseur"
+
+}

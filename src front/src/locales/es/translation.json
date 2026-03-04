@@ -1,0 +1,79 @@
+{
+  "homeTitle": "🏠 Inicio",
+  "hello": "Hola",
+  "logout": "Cerrar sesión",
+  "loading": "Cargando...",
+
+  "register": "Registrarse",
+  "login": "Iniciar sesión",
+  "welcome": "Bienvenido",
+  "user": "usuario",
+
+  "name": "Nombre",
+  "namePlaceholder": "Tu nombre",
+  "maritalStatus": "Estado Civil",
+  "selectMarital": "Seleccione…",
+  "single": "Soltero/a",
+  "married": "Casado/a",
+  "cohabiting": "Unión libre",
+  "divorced": "Divorciado/a",
+  "widowed": "Viudo/a",
+  "other": "Otro",
+
+  "email": "Correo Electrónico",
+  "emailPlaceholder": "correo@dominio.com",
+  "password": "Contraseña",
+  "passwordPlaceholder": "Mínimo 6 caracteres",
+
+  "signIn": "Ingresar",
+  "signInWithGoogle": "Iniciar sesión con Google",
+  "alreadyAccount": "¿Ya tienes cuenta? Inicia sesión",
+  "noAccount": "¿No tienes cuenta? Regístrate",
+
+  "requiredName": "El nombre es obligatorio.",
+  "requiredMarital": "Selecciona tu estado civil.",
+  "passwordMin": "La contraseña debe tener al menos 6 caracteres.",
+
+  "inicio": "Inicio",
+  "productos" : "Productos",
+  "proveedores": "Proveedores",
+
+  "bienvenido":"Bienvenido",
+  "seleccion": "Seleccione una opción",
+
+  "nombre" : "Nombre",
+  "descripción" : "Descripción",
+  "id proveedor" :"ID del proveedor",
+  "guardar" : "Guardr",
+  "actualizar" : "Actualizar",
+  "limpiar" : "Limoir",
+
+  "consulta" : "Consultar productos IA",
+  "pregunta" : "Pregunta",
+  "sinrespuesta" : "Sin respuesta",
+  "pensando" : "Pensando...",
+
+  "eliminar" : "¿Eliminar producto?",
+
+  "lista" : "Lista de productos",
+  "noProducto" :"Sin productos",
+
+  "id" : "ID",
+  "producto" : "Producto",
+  "proveedor": "Proveedor",
+
+  "acciones" : "Acciones",
+  "eliminarU" : "Elimiar",
+  "editar" : "Editar",
+
+  "escribePregunta":"Escribir primero una pregunta.",
+  "error" : "Se ha producido un error al comunicarse con la IA.",
+  "iaproveedores":"Consulta de proveedores de IA",
+  "escribeConsultaProveedor": "Escriba cualquier pregunta sobre los proveedores...",
+  "listaproveedores":"Lista de proveedores",
+  "telefono": "Teléfono",
+  "noProveedores" : "No hay proveedores.",
+  "nitProveedor": "NIT del Proveedor",
+  "nombreProveedor": "Nombre del Proveedor"
+
+}

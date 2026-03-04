@@ -1,0 +1,83 @@
+{
+  "homeTitle": "🏠 Home",
+  "hello": "Hello",
+  "logout": "Log out",
+  "loading": "Loading...",
+
+  "register": "Register",
+  "login": "Login",
+  "welcome": "Welcome",
+  "user": "user",
+
+  "name": "Name",
+  "namePlaceholder": "Your name",
+  "maritalStatus": "Marital Status",
+  "selectMarital": "Select…",
+  "single": "Single",
+  "married": "Married",
+  "cohabiting": "Cohabiting",
+  "divorced": "Divorced",
+  "widowed": "Widowed",
+  "other": "Other",
+
+  "email": "Email",
+  "emailPlaceholder": "email@example.com",
+  "password": "Password",
+  "passwordPlaceholder": "Minimum 6 characters",
+
+  "signIn": "Sign in",
+  "signInWithGoogle": "Sign in with Google",
+  "alreadyAccount": "Already have an account? Login",
+  "noAccount": "Don't have an account? Register",
+
+  "requiredName": "Name is required.",
+  "requiredMarital": "Please select your marital status.",
+  "passwordMin": "Password must be at least 6 characters.",
+
+ 
+  "inicio": "Home",
+  "productos" : "Products",
+  "proveedores": "Suppliers",
+
+
+  "bienvenido":"Welcome",
+  "seleccion": "Select an option",
+
+  "nombre" : "Name",
+  "descripción" : "Description",
+  "id proveedor" :"Supplier ID",
+  "guardar" : "Save",
+  "actualizar" : "Update",
+  "limpiar" : "Clean",
+
+  "consulta" : "Consult AI Products",
+  "pregunta" : "Question",
+  "sinrespuesta" : "No response",
+  "pensando" : "Thinking...",
+
+  "eliminar" : "Delete on product?",
+
+  "lista" : "Product list",
+  "noProducto" :"No products",
+
+  "id" : "ID",
+  "producto" : "Product",
+  "proveedor": "Supplier",
+
+  "acciones" : "Actions",
+  "eliminarU" : "Delete",
+  "editar" : "Edit",
+
+  "escribePregunta":"Write a question first.",
+  "error" : "An error occurred while communicating with the AI.",
+  "iaproveedores":"AI Consultation Suppliers",
+  "escribeConsultaProveedor": "Write any questions about suppliers...",
+  "listaproveedores":"List of suppliers",
+  "telefono": "Phone",
+  "noProveedores" : "There are no suppliers.",
+  "nitProveedor": "NIT Suppier",
+  "nombreProveedor": "Name Supplier"
+
+
+
+}
