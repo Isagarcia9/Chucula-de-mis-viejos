@@ -1,3 +1,4 @@
+//lOGIN AND AUTH WITH FIREBASE
 import { initializeApp } from "firebase/app";
 import {
   getAuth,
